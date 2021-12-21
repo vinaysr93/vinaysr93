@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Vinay. Trying to solve problems through digital means.
 
-- 🔭 I’m currently working on automation tools that lessens the mundane tasks
+- 🔭 I’m currently working on automation tools that eliminates mundane tasks
 - 🌱 I’m currently learning Python, Flutter, C++ and WebDevelopment
-- 👯 I’m looking to collaborate on anything that reduces mundane work, engineering product design and simulation.
+- 👯 I’m looking to collaborate on anything that reduces mundane work, engineering product design and simulation. 
 - 🤔 I’m looking for help with Product D
 - 💬 Ask me about animes (one punch man,naruto,detective school q, boruto)
 
