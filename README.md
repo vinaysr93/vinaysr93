@@ -1,4 +1,4 @@
-### Hi there 👋 I am Vinay. Trying to solve some problems of the mechanical world through digital means.
+### Hi there 👋 I am Vinay. Trying to solve problems through digital means.
 
 - 🔭 I’m currently working on automation tools that lessens the mundane tasks
 - 🌱 I’m currently learning Python, Flutter, C++ and WebDevelopment
