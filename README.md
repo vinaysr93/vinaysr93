@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Vinay. Trying to solve some problems of the mechanical world through digital means.
+
+- 🔭 I’m currently working on automation tools that lessens the mundane tasks
+- 🌱 I’m currently learning Python, Flutter, C++ and WebDevelopment
+- 👯 I’m looking to collaborate on anything that reduces mundane work, engineering product design and simulation.
+- 🤔 I’m looking for help with Product D
+- 💬 Ask me about animes (one punch man,naruto,detective school q, boruto)
 
 <!--
 **vinaysr93/vinaysr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
