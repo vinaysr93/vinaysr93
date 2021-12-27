@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on automation tools that eliminates mundane tasks
 - 🌱 I’m currently learning Python, Flutter, C++ and WebDevelopment
 - 👯 I’m looking to collaborate on anything that reduces mundane work, engineering product design and simulation. 
-- 🤔 I’m looking for help with Product Design
+- 🤔 I’m looking for help with Product Design and tools that automates product deisgn work.
 - 💬 Ask me about animes (one punch man,naruto,detective school q, boruto)
 
 <!--
