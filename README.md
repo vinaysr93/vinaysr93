@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on automation tools that eliminates mundane tasks
 - 🌱 I’m currently learning Python, Flutter, C++ and WebDevelopment
 - 👯 I’m looking to collaborate on anything that reduces mundane work, engineering product design and simulation. 
-- 🤔 I’m looking for help with Product Design and tools that automates product design work.
-- 💬 Ask me about animes (one punch man,naruto,detective school q, boruto)
+- 🤔 I’m looking collaberations on Product Design and tools that automates product design work.
+
 
 <!--
 **vinaysr93/vinaysr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
