@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on automation tools that eliminates mundane tasks
 - 🌱 I’m currently learning Python and WebDevelopment
 - 👯 I’m looking to collaborate on anything that reduces mundane work, engineering product design and simulation. 
-- 🤔 I’m looking collaberations on Product Design and tools that automates product design work.
+
 
 
 <!--
